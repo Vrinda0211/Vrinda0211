@@ -1,4 +1,4 @@
-# hi, i'm Vrinda
+# hi, I'm Vrinda
 
 BTech Computer Science student
 
