@@ -3,7 +3,7 @@
 BTech Computer Science student
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3500&pause=1000&left=true&v=true&leftwidth=500&lines=Building+things+that+matter.;Full+Stack+Development.Agentic AI.;Machine+Learning." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3500&pause=1000&width=500&lines=Building+things+that+matter.;Full+Stack+Development.;Agentic+AI.;Machine+Learning." />
 </p>
 
 ---
