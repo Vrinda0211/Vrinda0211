@@ -21,6 +21,7 @@ BTech Computer Science student
 ![C](https://img.shields.io/badge/C-e2ece9?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-fde2e4?style=for-the-badge&logo=cplusplus&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-fefae0?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-e6e6fa?style=for-the-badge&logo=dart&logoColor=black)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-e2f0cb?style=for-the-badge&logo=mongodb&logoColor=black)
 ![Express](https://img.shields.io/badge/Express-e0fbfc?style=for-the-badge&logo=express&logoColor=black)
